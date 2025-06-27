@@ -5,13 +5,9 @@ My submission repository for the **Turbin3 Q3 Builders Cohort** program.
 ## 📂 What's Here
 
 This repo contains all my assessments and projects for the cohort:
-<<<<<<< HEAD
-- ✅ TypeScript Prerequisites (`enroll.ts`)
-- 🔄 More assessments ...
-=======
-- ✅ TypeScript Prerequisites 
 
->>>>>>> 131c208 (Initial commit with proper gitignore)
+- ✅ TypeScript Prerequisites 
+- ✅ Rust Prerequisites 
 
 ## 🔗 Program Details
 
