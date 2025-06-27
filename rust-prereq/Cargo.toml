@@ -1,0 +1,17 @@
+[package]
+name = "rust-prereq"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "prereq_rust"
+path = "src/lib.rs"
+
+[dependencies]
+solana-client = "1.18.17"
+solana-sdk = "1.18.17"
+solana-program = "1.18.17"
+bs58 = "0.4"
+
+
+
